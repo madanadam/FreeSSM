@@ -1947,7 +1947,6 @@ to your home directory and file &apos;&apos;FreeSSM.prefs&apos;&apos;.</translat
     </message>
     <message>
         <location filename="ui/About.ui" line="880"/>
-        <location filename="ui/small/About.ui" line="998"/>
         <source>&lt;a href=&quot;./licenses-3rd-party/tinyXML2-LICENSE.txt&quot;&gt;ZLIB license&lt;/a&gt;</source>
         <translation>&lt;a href=&quot;./licenses-3rd-party/tinyXML2-LICENSE.txt&quot;&gt;ZLIB license&lt;/a&gt;</translation>
     </message>
@@ -2211,6 +2210,11 @@ This program is NOT A PRODUCT OF FUJI HEAVY INDUSTRIES LTD. OR ANY SUBARU®-ASSO
         <location filename="ui/small/About.ui" line="565"/>
         <source>Linux/X11, Windows</source>
         <translation>Linux/X11, Windows</translation>
+    </message>
+    <message>
+        <location filename="ui/small/About.ui" line="998"/>
+        <source>&lt;a href=&quot;./licenses-3rd-party/tinyXML-LICENSE.txt&quot;&gt;ZLIB license&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;./licenses-3rd-party/tinyXML-LICENSE.txt&quot;&gt;ZLIB license&lt;/a&gt;</translation>
     </message>
 </context>
 <context>

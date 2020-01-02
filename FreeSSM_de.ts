@@ -1948,7 +1948,6 @@ Schreib-Zugriff auf ihr &apos;&apos;Home&apos;&apos;-Verzeichnis sowie die Datei
     </message>
     <message>
         <location filename="ui/About.ui" line="880"/>
-        <location filename="ui/small/About.ui" line="998"/>
         <source>&lt;a href=&quot;./licenses-3rd-party/tinyXML2-LICENSE.txt&quot;&gt;ZLIB license&lt;/a&gt;</source>
         <translation>&lt;a href=&quot;./licenses-3rd-party/tinyXML2-LICENSE.txt&quot;&gt;ZLIB-Lizenz&lt;/a&gt;</translation>
     </message>
