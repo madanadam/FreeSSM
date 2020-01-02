@@ -974,7 +974,7 @@ This program is NOT A PRODUCT OF FUJI HEAVY INDUSTRIES LTD. OR ANY SUBARU®-ASSO
           </font>
          </property>
          <property name="text">
-          <string notr="true">TinyXML2:</string>
+          <string notr="true">TinyXML:</string>
          </property>
          <property name="openExternalLinks">
           <bool>true</bool>
@@ -995,7 +995,7 @@ This program is NOT A PRODUCT OF FUJI HEAVY INDUSTRIES LTD. OR ANY SUBARU®-ASSO
           </font>
          </property>
          <property name="text">
-          <string>&lt;a href=&quot;./licenses-3rd-party/tinyXML2-LICENSE.txt&quot;&gt;ZLIB license&lt;/a&gt;</string>
+          <string>&lt;a href=&quot;./licenses-3rd-party/tinyXML-LICENSE.txt&quot;&gt;ZLIB license&lt;/a&gt;</string>
          </property>
          <property name="alignment">
           <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
@@ -1131,7 +1131,7 @@ This program is NOT A PRODUCT OF FUJI HEAVY INDUSTRIES LTD. OR ANY SUBARU®-ASSO
           </font>
          </property>
          <property name="text">
-          <string>Truetype font &quot;Liberation Sans&quot;: </string>
+          <string>Truetype font &quot;Liberation Sans&quot;:</string>
          </property>
          <property name="wordWrap">
           <bool>true</bool>
